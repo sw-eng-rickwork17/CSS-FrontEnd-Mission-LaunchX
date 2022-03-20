@@ -233,7 +233,7 @@ p {
 
 .nurse-card-title {
     font-family: var(--poppins);
-    font-weight: 790;
+    font-weight: 500;
     font-size: 1.3rem;
     color: var(--very-dark-blue);
     margin: 0;
